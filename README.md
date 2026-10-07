@@ -23,9 +23,12 @@ Technology should serve its owner — not become something its owner must surren
 
 ## 03 · SIGNAL
 
-<a href="https://github.com/Monarch505?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Monarch505&amp;show_icons=false&amp;include_all_commits=false&amp;count_private=false&amp;hide_border=false&amp;border_radius=0&amp;border_color=30363d&amp;bg_color=0d1117&amp;title_color=f0f6fc&amp;text_color=8b949e&amp;icon_color=8b949e&amp;ring_color=30363d&amp;custom_title=THE+RECORD&amp;line_height=24" alt="GitHub statistics for Monarch505" width="55%"></a> <img src="assets/signal.svg" alt="Profile signal: 3 public repos, 3 stars, 50 contributions, on GitHub since 2026" width="42%">
+<a href="https://github.com/Monarch505?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Monarch505&amp;show_icons=false&amp;include_all_commits=false&amp;count_private=false&amp;hide_border=false&amp;border_radius=0&amp;border_color=21262d&amp;bg_color=0d1117&amp;title_color=8b949e&amp;text_color=6e7681&amp;icon_color=6e7681&amp;ring_color=30363d&amp;custom_title=THE+RECORD&amp;line_height=24" alt="GitHub statistics for Monarch505" width="55%"></a> <img src="assets/signal.svg" alt="Profile signal: 3 public repos, 3 stars, 50 contributions, on GitHub since 2026" width="42%">
 
-<img src="assets/heatmap.svg" alt="Contribution heatmap — 50 contributions in the last year" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake-light.svg">
+  <img src="dist/snake-dark.svg" alt="Contribution activity — a snake eating its way across the graph: 50 contributions in the last year" width="100%">
+</picture>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
